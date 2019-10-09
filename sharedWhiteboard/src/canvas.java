@@ -11,5 +11,3 @@ class canvas implements Serializable {
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 }
-  
-
